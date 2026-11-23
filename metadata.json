@@ -1,0 +1,6 @@
+{
+  "name": "SpendSense",
+  "description": "Privacy-first local expense tracker with hybrid auto-categorization, quick review queue, category budgets, and spending anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
